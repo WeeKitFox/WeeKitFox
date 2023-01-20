@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a website<br>🌱 I’m currently learning front-end<br>💬 I'm available to chat on discord : rixifox#6539<br>⚡ Fox is the best animal on earth.
+🔭 I’m working on a website<br>🌱 I’m currently learning front-end<br>💬 I'm available to chat on discord : rixifox#6539<br>⚡ Fox is the best animal on earth.
 
 
 ## 🌐 Socials:
